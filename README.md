@@ -1,1 +1,1 @@
-- 在线浏览：[fm-music]( http://bxu2442150290.my3w.com/project/fm-music/index.html)
+- 在线浏览：[fm-music](http://musicfm.applinzi.com/)
