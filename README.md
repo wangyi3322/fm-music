@@ -1,1 +1,1 @@
-- 在线浏览：[fm-music](http://musicfm.applinzi.com/)
+- 在线浏览：[fm-music](http://htmlpreview.github.io/?https://wangyi3322.github.io/fm-music/)
