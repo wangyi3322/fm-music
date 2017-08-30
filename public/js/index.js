@@ -63,8 +63,12 @@ function getMusic(){
 		data:{
 			 channel: storageChannel
 		}
-	}).done(function(ret){
-		getMusicInfor(ret);	
+	}).done(function(ret){	
+        if(ret.song[0].url == null){            
+            getMusic();
+        }else{
+            getMusicInfor(ret); 
+        }
 	}).fail(function(){
 		console.log('music erro');
 	});
